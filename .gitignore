@@ -1,0 +1,9 @@
+datasets
+__pycache__
+.DS_Store
+.idea
+.ipynb_checkpoints
+cache
+notebooks
+plots
+sales_prediction_07_april.ipynb
